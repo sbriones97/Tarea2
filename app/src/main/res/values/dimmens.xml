@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="relative_layout_padding">10dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="imagebutton_size">35dp</dimen>
+    <dimen name="title_margin">10dp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+    <dimen name="text_margin">10dp</dimen>
+    <dimen name="radiobutton_margin">5dp</dimen>
+    <dimen name="title_textsize">30dp</dimen>
+    <dimen name="subtitle_textsize">20dp</dimen>
+    <dimen name="text_textsize">15dp</dimen>
+    <dimen name="button_size">45dp</dimen>
+    <dimen name="button_corner">8dp</dimen>
+    <dimen name="line">1dp</dimen>
+
+</resources>

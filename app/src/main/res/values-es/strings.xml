@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="title">Bicicleta Vintage</string>
+    <string name="description">Descripcion</string>
+    <string name="measurement">Mediciones</string>
+    <string name="text_description">Custom lightweight steel frame. Unrestored in beautiful original condition. Lightly used and well kept. Full super record build.</string>
+    <string name="text_measurement">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="color">Color</string>
+    <string name="size1">CH</string>
+    <string name="size2">M</string>
+    <string name="size3">L</string>
+    <string name="size4">XL</string>
+    <string name="toast_imagebutton">+1 para la Bicicleta Vintage</string>
+    <string name="button_add">Agregar al Carrito</string>
+    <string name="button_added">Agregado al carrito</string>
+    <string name="mssg_snackbar">Agregado al carrito</string>
+    <string name="mssg_button_snackbar">Deshacer</string>
+    <string name="toast_added">El objeta ya esta en el Carrito</string>
+
+</resources>
