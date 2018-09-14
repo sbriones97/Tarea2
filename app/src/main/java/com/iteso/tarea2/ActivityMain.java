@@ -108,6 +108,7 @@ public class ActivityMain extends AppCompatActivity {
         super.onRestoreInstanceState(savedInstanceState);
         button_checked = savedInstanceState.getInt(key_checked);
         add = savedInstanceState.getBoolean(key_add);
+        setCheck(button_checked);
         if(add){
             cart.setText(R.string.button_added);
         }
